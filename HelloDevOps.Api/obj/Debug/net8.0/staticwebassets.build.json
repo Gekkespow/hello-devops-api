@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zcsBaC+wdAY8AG+g0t12ly95M5+AWSW3N2/JH50iXfM=",
+  "Source": "HelloDevOps.Api",
+  "BasePath": "_content/HelloDevOps.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
